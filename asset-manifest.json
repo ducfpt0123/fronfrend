@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/fronfrend/static/css/main.f855e6bc.css",
-    "main.js": "/fronfrend/static/js/main.16af6f5d.js",
+    "main.js": "/fronfrend/static/js/main.ab61901a.js",
     "static/js/453.ed3810f9.chunk.js": "/fronfrend/static/js/453.ed3810f9.chunk.js",
     "static/media/logo.svg": "/fronfrend/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/fronfrend/index.html",
     "main.f855e6bc.css.map": "/fronfrend/static/css/main.f855e6bc.css.map",
-    "main.16af6f5d.js.map": "/fronfrend/static/js/main.16af6f5d.js.map",
+    "main.ab61901a.js.map": "/fronfrend/static/js/main.ab61901a.js.map",
     "453.ed3810f9.chunk.js.map": "/fronfrend/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.16af6f5d.js"
+    "static/js/main.ab61901a.js"
   ]
 }
